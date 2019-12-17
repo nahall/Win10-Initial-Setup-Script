@@ -1,0 +1,29 @@
+# Nick's custom changes from Default.preset
+###########################################
+
+SetP2PUpdateLocal
+DisableRemoteDesktop
+DisableDefragmentation
+DisableAutoRebootOnCrash
+
+ShowNetworkOnLockScreen
+ShowShutdownOnLockScreen
+ShowTaskView
+HideTrayIcons
+EnableNewAppPrompt
+ShowRecentlyAddedApps
+ShowQuickAccess
+SetVisualFXAppearance
+
+ShowDesktopInThisPC
+ShowDocumentsInThisPC
+ShowDownloadsInThisPC
+ShowMusicInThisPC
+ShowPicturesInThisPC
+ShowVideosInThisPC
+
+InstallNET23
+
+# Stop the default.preset from restarting
+!Restart
+
